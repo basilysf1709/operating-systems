@@ -138,6 +138,7 @@ The code is modular in nature. It has the ability, however, to be built up from 
 Most of the components have been broken down to simple functions. These functions can be changed, and updated to make future enhancements. It should be pretty easy to change the code without changing the overall behavior.
 
 
+# Operating Systems ***Scheduling Algorithms***
 
 **Name: Basil Yusuf**
 **Course: cis3110**
